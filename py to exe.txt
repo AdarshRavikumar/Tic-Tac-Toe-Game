@@ -1,0 +1,10 @@
+How to convert py file to exe
+
+Copy the python file in the same folder
+and rename the copied file to 'setup'
+
+then in the cmd
+change directory to the folder containing setup i.e
+cd C:\Users\Mahe\Documents\Tic Tac Toe_new
+
+python setup.py build
